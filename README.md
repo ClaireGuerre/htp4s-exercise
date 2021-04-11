@@ -1,2 +1,2 @@
 # htp4s-exercise
-Quick overview on http4s librry
+Quick overview on http4s library
